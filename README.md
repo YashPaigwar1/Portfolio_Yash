@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yash Paigwar</h1>
-<h3 align="center">Full Stack Developer | React | Java | Spring Boot</h3>
+<h1 align="center">Hello I'm Yash Paigwar</h1>
+<h3 align="center">Full Stack Developer | React | Java | Spring Boot | Generative AI </h3>
 
 ---
 
@@ -8,7 +8,7 @@
  <p align="center">- Open-Source Contributions</p>
 
 ### <p align="center"> 💬 Ask me about  </p>
-<p align="center"> -React, Java, Spring Boot, REST APIs </p>
+<p align="center"> -React, Java, Spring Boot, REST APIs, Generative & Spring AI </p>
 
 ### <p align="center"> 📫 How to reach me </p>
 <p align="center"> 📧 Email: work.yashpaigwar1@gmail.com </p>
@@ -24,10 +24,10 @@
 
  ### <p align="center"> 💻 Programming Languages:  </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+   <img src="https://img.shields.io/badge/Generative AI -F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
 
 ### <p align="center"> 🎨 Frontend Development:  </p>
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
+ <img src="https://img.shields.io/badge/Generative Spring AI-59666C?style=flat&logo=hibernate&logoColor=white" />
 </p>
 
 ###  <p align="center"> 🗄️ Databases:  </p>
@@ -55,6 +56,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS -F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
